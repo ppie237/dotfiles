@@ -77,7 +77,7 @@ Even cooler is when you want to edit your vimrc file you just type *,v* in vim a
 Installation is easy. Clone, cd, rake, profit.
 
 ```sh
-cd && git clone https://github.com/thatrubylove/dotfiles.git && cd ~/dotfiles && rake
+cd && git clone https://github.com/ppie237/dotfiles.git && cd ~/dotfiles && rake
 ```
 
 ## Please Note
